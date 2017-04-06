@@ -8,3 +8,8 @@ This class is cf201d21
 -Bruce
 
 Day 003 - This class, we learned to create new branches and make pull requests between branches on github in order to move changes from one branch to another.
+We also learned how to write for loops, make arrays, and count number of correct answers made my user inputs to prompt questions from code that we wrote.
+Overall, this was overwhelming to say the least. I had to get a bunch of help because I wrote a couple lines of code that were true, so the repl.it didn't complain about syntax, but the rest of my code wouldn't run after those lines.
+I also am very unfamiliar with where to put certain lines of new code in order to fulfill the new requirements of the assignment today.
+I hope that with repetition, I will be able to convert this to memory.
+-Bruce
